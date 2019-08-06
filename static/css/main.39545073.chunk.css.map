@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,eACE,gBACF,CAEA,UACE,YACF,CAEA,GACE,oBACF,CAEA,OACE,eACF","file":"main.39545073.chunk.css","sourcesContent":[".check--active {\n  background: brown;\n}\n\n.page__ul {\n  display: flex;\n}\n\nli {\n  list-style-type: none;\n}\n\n.hello {\n  background: yellow;\n}\n"]}
